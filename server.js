@@ -13,10 +13,6 @@ app.use(function (req, res, next) {
 });
 
 app.post('/sendtoblock',function(req,res){
-  var 
-});
-
-app.post('/sendtoblock',function(req,res){
 
   var from=req.body.user;
   var to=req.body.to;
