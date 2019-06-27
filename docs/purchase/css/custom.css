@@ -1,0 +1,10 @@
+.form-control {
+    margin-bottom: 9px;
+}
+body {
+    background: url(../img/bg.jpg);
+    color:#000;
+}
+.nav-masthead .nav-link, .nav-masthead .nav-link, .mastfoot {
+    color: #000;
+}
